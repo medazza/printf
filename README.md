@@ -1,10 +1,6 @@
 
 # 0x11. C - printf
 
-Team Members:
-- Justine Ugwu
-- Tiny Bila
-
 This project is part of the ALX-Africa SE program.
 
 ## Description:page_facing_up:
